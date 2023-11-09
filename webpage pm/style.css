@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-image:url(images/pb.jpg)
+}
+header{
+    background-color:black;
+}
+#logo{
+    margin-left: 5%;
+}
+.navigation{
+    float: right;
+    margin-top: 1%;
+    margin-right: 1%;
+    
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    text-decoration: none;
+    border: 2px solid white;
+}
